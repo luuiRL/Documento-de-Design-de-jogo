@@ -4,7 +4,7 @@
 
 2-Derrote todos os monstros da Dungeon para orgulhar seu superior
 
-3-Você é um Cavaleiro recém renomado que foi convidado a derrotar todos os onstros de uma dungeon, pois, tem muitos tesouros nela;
+3-Você é um Cavaleiro recém renomado que foi convidado a derrotar todos os monstros de uma dungeon(ELES ACHAM QUE TEM TESOURO NELA, SEUS SUPERIORES SÃO BURROS).
 
 4-Cavaleiro-----Mata BixoRuim
 
